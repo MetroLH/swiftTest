@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					C9E94A701DE2E5D800BAD684 = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = ZUM742673K;
 						ProvisioningStyle = Automatic;
 					};
 					C9E94A841DE2E5D800BAD684 = {
@@ -412,6 +413,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ZUM742673K;
 				INFOPLIST_FILE = swiftTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lh.st.swiftTest;
@@ -424,6 +426,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ZUM742673K;
 				INFOPLIST_FILE = swiftTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lh.st.swiftTest;
